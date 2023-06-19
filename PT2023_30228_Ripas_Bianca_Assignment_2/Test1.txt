@@ -1,0 +1,153 @@
+S-au generat aleator 4 clienti.
+Regulile sunt aceleasi pt toti 4 clienti.
+Simularea este finalizata atunci cand nu mai exista clienti in asteptare.
+La timpul 0 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 1,6,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul : 10 acum acest client a plecat : 
+Clientul ( 1,6,4) la coada 0
+ Coada 0 e ocupata 
+La timpul 10 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 13 Clientul acesta  e in asteptare 
+( 3,10,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul : 14 acum acest client a plecat : 
+Clientul ( 3,10,4) la coada 1
+ Coada 1 e ocupata 
+La timpul 14 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 15 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 16 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 2,16,2)
+La timpul 17 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul : 18 acum acest client a plecat : 
+Clientul ( 2,16,2) la coada 0
+ Coada 0 e ocupata 
+La timpul 18 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 19 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 20 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 21 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 22 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 23 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 24 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 25 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul 26 Clientul acesta  e in asteptare 
+( 4,23,4)
+La timpul : 27 acum acest client a plecat : 
+Clientul ( 4,23,4) la coada 0
+ Coada 0 e ocupata 

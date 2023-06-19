@@ -1,0 +1,2627 @@
+S-au generat aleator 50 clienti.
+Regulile sunt aceleasi pt toti 50 clienti.
+Simularea este finalizata atunci cand nu mai exista clienti in asteptare.
+La timpul 0 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 0 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 0 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 0 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 0 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 0 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 0 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 0 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 0 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 0 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 0 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 0 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 0 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 0 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 0 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 0 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 0 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 0 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 0 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 1 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 1 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 1 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 1 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 1 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 1 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 1 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 1 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 1 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 1 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 1 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 1 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 1 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 1 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 1 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 1 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 1 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 1 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 2 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 2 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 2 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 2 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 2 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 2 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 2 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 2 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 2 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 2 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 2 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 2 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 2 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 2 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 2 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 2 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 2 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 2 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 3 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 3 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 3 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 3 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 3 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 3 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 3 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 3 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 3 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 3 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 3 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 3 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 3 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 3 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 3 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 3 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 3 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 3 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 4 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 4 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 4 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 4 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 4 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 4 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 4 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 4 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 4 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 4 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 4 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 4 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 4 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 4 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 4 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 4 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 4 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 4 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 5 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 5 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 5 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 5 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 5 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 5 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 5 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 31,5,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 5 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 5 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 5 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 5 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 5 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 5 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 5 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 5 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 5 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 5 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 5 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 6 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 6 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 6 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 6 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 6 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 6 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 6 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul : 6 acum acest client a plecat : 
+Clientul ( 31,5,1) la coada 0
+ Coada 0 e ocupata 
+La timpul 6 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 6 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 6 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 6 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 6 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 6 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 6 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 6 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 6 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 6 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 6 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 6 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 7 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 7 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 7 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 7 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 7 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 7 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 7 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 32,5,3)
+La timpul 7 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 7 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 7 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 7 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 7 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 7 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 7 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 7 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 7 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 7 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 7 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 8 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 8 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 8 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 8 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 8 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 8 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 8 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul : 8 acum acest client a plecat : 
+Clientul ( 32,5,3) la coada 0
+ Coada 0 e ocupata 
+La timpul 8 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 8 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 8 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 8 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 8 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 8 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 8 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 8 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 8 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 8 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 8 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 9 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 9 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 9 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 9 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 9 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 9 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 9 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 9 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 9 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 9 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 9 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 9 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 9 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 9 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 9 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 9 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 9 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 1,9,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 10 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 10 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 10 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 10 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 10 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 10 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 10 Clientul acesta  e in asteptare 
+( 23,5,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 34,7,4)
+La timpul 10 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 10 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 10 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 10 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 10 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 10 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 10 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 10 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 10 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 10 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul : 11 acum acest client a plecat : 
+Clientul ( 1,9,2) la coada 1
+ Coada 1 e ocupata 
+La timpul 11 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 11 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 11 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 11 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 11 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 11 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 11 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul : 11 acum acest client a plecat : 
+Clientul ( 23,5,6) la coada 2
+ Coada 2 e ocupata 
+La timpul 11 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 11 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul : 11 acum acest client a plecat : 
+Clientul ( 34,7,4) la coada 3
+ Coada 3 e ocupata 
+La timpul 11 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 11 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 11 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 11 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 11 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 11 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 45,6,6)
+La timpul 11 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 11 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 11 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 11 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 12 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 12 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 12 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 11,9,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 12 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 12 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 18,11,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 12 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 12 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 12 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 12 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 12 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 12 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 12 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 12 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 12 Clientul acesta  e in asteptare 
+( 44,7,6)
+La timpul : 12 acum acest client a plecat : 
+Clientul ( 45,6,6) la coada 0
+ Coada 0 e ocupata 
+La timpul 12 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 12 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 12 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 12 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 13 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 13 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 13 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul : 13 acum acest client a plecat : 
+Clientul ( 11,9,4) la coada 4
+ Coada 4 e ocupata 
+La timpul 13 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 13 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 13 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 13 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul : 13 acum acest client a plecat : 
+Clientul ( 18,11,2) la coada 0
+ Coada 0 e ocupata 
+La timpul 13 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 13 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 13 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 13 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 13 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 13 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 13 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 13 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 13 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 13 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 13 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul : 13 acum acest client a plecat : 
+Clientul ( 44,7,6) la coada 1
+ Coada 1 e ocupata 
+La timpul 13 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 13 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 13 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 13 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 14 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 14 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 14 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 14 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 14 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 14 Clientul acesta  e in asteptare 
+( 17,11,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 19,14,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 14 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 14 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 14 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 14 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 14 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 14 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 14 Clientul acesta  e in asteptare 
+( 37,14,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 14 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 14 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 14 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 14 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 14 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 14 Clientul acesta  e in asteptare 
+( 48,14,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 49,14,1)
+La timpul 14 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 15 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 15 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 15 Clientul acesta  e in asteptare 
+( 10,10,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 15 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 15 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul : 15 acum acest client a plecat : 
+Clientul ( 17,11,4) la coada 1
+ Coada 1 e ocupata 
+La timpul : 15 acum acest client a plecat : 
+Clientul ( 19,14,1) la coada 2
+ Coada 2 e ocupata 
+La timpul 15 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 15 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 15 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 15 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 15 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 15 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 15 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul : 15 acum acest client a plecat : 
+Clientul ( 37,14,1) la coada 3
+ Coada 3 e ocupata 
+La timpul 15 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 15 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 15 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 15 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 15 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 15 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 15 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul : 15 acum acest client a plecat : 
+Clientul ( 48,14,1) la coada 4
+ Coada 4 e ocupata 
+La timpul : 15 acum acest client a plecat : 
+Clientul ( 49,14,1) la coada 0
+ Coada 0 e ocupata 
+La timpul 15 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 16 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 16 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul : 16 acum acest client a plecat : 
+Clientul ( 10,10,6) la coada 3
+ Coada 3 e ocupata 
+La timpul 16 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 16 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 16 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 16 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 16 Clientul acesta  e in asteptare 
+( 22,12,5)
+La timpul 16 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 16 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 16 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 16 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 16 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 16 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 16 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 16 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 16 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 16 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 16 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 16 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 16 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 17 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 17 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 17 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 17 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 17 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 17 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul : 17 acum acest client a plecat : 
+Clientul ( 22,12,5) la coada 3
+ Coada 3 e ocupata 
+La timpul 17 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 17 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 17 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 17 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 17 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 17 Clientul acesta  e in asteptare 
+( 38,16,2)
+La timpul 17 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 17 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 17 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 17 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 17 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 17 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 17 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 18 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 18 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 18 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 18 Clientul acesta  e in asteptare 
+( 6,13,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 18 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 18 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 18 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 18 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 18 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 18 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 18 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 27,18,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 18 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 18 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 18 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 18 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul : 18 acum acest client a plecat : 
+Clientul ( 38,16,2) la coada 2
+ Coada 2 e ocupata 
+La timpul 18 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 18 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 18 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 18 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 18 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 18 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 18 Clientul acesta  e in asteptare 
+( 50,15,4)
+La timpul 19 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 19 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 19 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 19 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul : 19 acum acest client a plecat : 
+Clientul ( 6,13,6) la coada 4
+ Coada 4 e ocupata 
+La timpul 19 Clientul acesta  e in asteptare 
+( 7,19,1)
+La timpul 19 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 19 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 19 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 19 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 19 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 19 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 19 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 19 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 19 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 19 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 19 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 19 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 19 acum acest client a plecat : 
+Clientul ( 27,18,1) la coada 2
+ Coada 2 e ocupata 
+La timpul 19 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 19 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 19 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 19 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 19 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 19 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 19 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 19 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 19 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 19 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 19 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 19 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 19 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul : 19 acum acest client a plecat : 
+Clientul ( 50,15,4) la coada 4
+ Coada 4 e ocupata 
+La timpul 20 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 20 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 20 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul : 20 acum acest client a plecat : 
+Clientul ( 7,19,1) la coada 1
+ Coada 1 e ocupata 
+La timpul 20 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 20 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 20 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 20 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 20 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 20 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 20 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 20 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 20 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 20 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 20 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 20 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 20 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 20 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 20 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 20 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 20 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 20 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 20 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 20 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 20 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 21 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 21 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 21 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 21 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 21 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 21 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 21 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 21 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 21 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 21 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 21 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 21 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 21 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 21 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 21 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 21 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 21 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 21 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 21 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 21 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 21 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 21 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 21 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 21 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 22 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 22 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 22 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 22 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 22 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 22 Clientul acesta  e in asteptare 
+( 13,22,1)
+La timpul 22 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 22 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 22 Clientul acesta  e in asteptare 
+( 20,22,1)
+La timpul 22 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 22 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 22 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 22 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 22 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 22 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 22 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 22 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 22 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 22 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 22 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 22 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 22 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 22 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 22 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 23 Clientul acesta  e in asteptare 
+( 2,17,7)
+La timpul 23 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 23 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 23 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 23 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul : 23 acum acest client a plecat : 
+Clientul ( 13,22,1) la coada 0
+ Coada 0 e ocupata 
+La timpul 23 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 23 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul : 23 acum acest client a plecat : 
+Clientul ( 20,22,1) la coada 2
+ Coada 2 e ocupata 
+La timpul 23 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 23 Clientul acesta  e in asteptare 
+( 24,20,4)
+La timpul 23 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 23 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 23 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 23 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 23 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 23 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 23 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 23 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 23 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 23 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 23 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 23 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 23 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul : 24 acum acest client a plecat : 
+Clientul ( 2,17,7) la coada 0
+ Coada 0 e ocupata 
+La timpul 24 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 24 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul 24 Clientul acesta  e in asteptare 
+( 8,19,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 24 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 24 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 24 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 24 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul : 24 acum acest client a plecat : 
+Clientul ( 24,20,4) la coada 1
+ Coada 1 e ocupata 
+La timpul 24 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 24 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 24 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 24 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 24 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 24 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 24 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 24 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 24 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 24 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 24 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 24 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 24 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 25 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 25 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 25 Clientul acesta  e in asteptare 
+( 5,22,4)
+La timpul : 25 acum acest client a plecat : 
+Clientul ( 8,19,6) la coada 2
+ Coada 2 e ocupata 
+La timpul 25 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 25 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 25 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 25 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 25 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 25 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 25 Clientul acesta  e in asteptare 
+( 25,22,4)
+La timpul 25 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 25 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 25 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 25 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 25 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 25 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 25 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 25 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 25 Clientul acesta  e in asteptare 
+( 40,25,1)
+La timpul 25 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 25 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 25 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 25 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 25 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 26 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 26 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul : 26 acum acest client a plecat : 
+Clientul ( 5,22,4) la coada 0
+ Coada 0 e ocupata 
+La timpul 26 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 26 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 26 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 26 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 26 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 26 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul : 26 acum acest client a plecat : 
+Clientul ( 25,22,4) la coada 1
+ Coada 1 e ocupata 
+La timpul 26 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 26 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 26 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 26 Clientul acesta  e in asteptare 
+( 30,21,6)
+La timpul 26 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 26 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 26 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 26 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul : 26 acum acest client a plecat : 
+Clientul ( 40,25,1) la coada 2
+ Coada 2 e ocupata 
+La timpul 26 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 26 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 26 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 26 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 26 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 27 Clientul acesta  e in asteptare 
+( 3,25,3)
+La timpul 27 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 27 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 27 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 27 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 27 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 27 Clientul acesta  e in asteptare 
+( 16,21,7)
+La timpul 27 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 27 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 27 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 27 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul : 27 acum acest client a plecat : 
+Clientul ( 30,21,6) la coada 3
+ Coada 3 e ocupata 
+La timpul 27 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 27 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 27 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 27 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 27 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 27 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 27 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 27 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 27 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul : 28 acum acest client a plecat : 
+Clientul ( 3,25,3) la coada 3
+ Coada 3 e ocupata 
+La timpul 28 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 28 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 28 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 28 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 28 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul : 28 acum acest client a plecat : 
+Clientul ( 16,21,7) la coada 4
+ Coada 4 e ocupata 
+La timpul 28 Clientul acesta  e in asteptare 
+( 21,22,7)
+La timpul 28 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 28 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 28 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 28 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 28 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 28 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 28 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 28 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul 28 Clientul acesta  e in asteptare 
+( 42,28,1)
+La timpul 28 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 28 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 28 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 29 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 29 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 29 Clientul acesta  e in asteptare 
+( 12,25,5)
+La timpul 29 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 29 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul : 29 acum acest client a plecat : 
+Clientul ( 21,22,7) la coada 1
+ Coada 1 e ocupata 
+La timpul 29 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 29 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 29 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 29 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 29 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 29 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 29 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 29 Clientul acesta  e in asteptare 
+( 41,27,3)
+La timpul : 29 acum acest client a plecat : 
+Clientul ( 42,28,1) la coada 0
+ Coada 0 e ocupata 
+La timpul 29 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 29 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 29 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 30 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 30 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul : 30 acum acest client a plecat : 
+Clientul ( 12,25,5) la coada 4
+ Coada 4 e ocupata 
+La timpul 30 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 30 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 30 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 30 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 30 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 30 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 30 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 30 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 30 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul : 30 acum acest client a plecat : 
+Clientul ( 41,27,3) la coada 1
+ Coada 1 e ocupata 
+La timpul 30 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 30 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 30 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 31 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 31 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 31 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 31 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 31 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 31 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 31 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 31 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 31 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 31 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 31 Clientul acesta  e in asteptare 
+( 39,30,2)
+La timpul 31 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 31 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 31 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 32 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 32 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 32 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 32 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 32 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 32 Clientul acesta  e in asteptare 
+( 28,27,6)
+La timpul 32 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 32 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 32 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 32 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul : 32 acum acest client a plecat : 
+Clientul ( 39,30,2) la coada 2
+ Coada 2 e ocupata 
+La timpul 32 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 32 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 32 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 33 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 33 Clientul acesta  e in asteptare 
+( 9,27,7)
+La timpul 33 Clientul acesta  e in asteptare 
+( 14,32,2)
+La timpul 33 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 33 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 33 acum acest client a plecat : 
+Clientul ( 28,27,6) la coada 2
+ Coada 2 e ocupata 
+La timpul 33 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 33 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 33 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 33 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 33 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 33 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 33 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 34 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul : 34 acum acest client a plecat : 
+Clientul ( 9,27,7) la coada 3
+ Coada 3 e ocupata 
+La timpul : 34 acum acest client a plecat : 
+Clientul ( 14,32,2) la coada 0
+ Coada 0 e ocupata 
+La timpul 34 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 34 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 34 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 34 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 34 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 34 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 34 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 34 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 34 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 35 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 35 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 35 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 35 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 35 Clientul acesta  e in asteptare 
+( 33,32,4)
+La timpul 35 Clientul acesta  e in asteptare 
+( 35,31,5)
+La timpul 35 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 35 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 35 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 35 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 36 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 36 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 36 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 36 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul : 36 acum acest client a plecat : 
+Clientul ( 33,32,4) la coada 2
+ Coada 2 e ocupata 
+La timpul : 36 acum acest client a plecat : 
+Clientul ( 35,31,5) la coada 0
+ Coada 0 e ocupata 
+La timpul 36 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 36 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 36 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 36 Clientul acesta  e in asteptare 
+( 47,30,7)
+La timpul 37 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 37 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 37 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 37 Clientul acesta  e in asteptare 
+( 29,36,2)
+La timpul 37 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 37 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 37 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul : 37 acum acest client a plecat : 
+Clientul ( 47,30,7) la coada 3
+ Coada 3 e ocupata 
+La timpul 38 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 38 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 38 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 38 acum acest client a plecat : 
+Clientul ( 29,36,2) la coada 4
+ Coada 4 e ocupata 
+La timpul 38 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 38 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 38 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 39 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 39 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 39 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 39 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 39 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 39 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 40 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 40 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 40 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul 40 Clientul acesta  e in asteptare 
+( 36,36,5)
+La timpul 40 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 40 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 41 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 41 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 41 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 41 acum acest client a plecat : 
+Clientul ( 36,36,5) la coada 0
+ Coada 0 e ocupata 
+La timpul 41 Clientul acesta  e in asteptare 
+( 43,37,5)
+La timpul 41 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 42 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul 42 Clientul acesta  e in asteptare 
+( 15,37,6)
+La timpul 42 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 42 acum acest client a plecat : 
+Clientul ( 43,37,5) la coada 1
+ Coada 1 e ocupata 
+La timpul 42 Clientul acesta  e in asteptare 
+( 46,40,3)
+La timpul 43 Clientul acesta  e in asteptare 
+( 4,38,6)
+La timpul : 43 acum acest client a plecat : 
+Clientul ( 15,37,6) la coada 1
+ Coada 1 e ocupata 
+La timpul 43 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 43 acum acest client a plecat : 
+Clientul ( 46,40,3) la coada 2
+ Coada 2 e ocupata 
+La timpul : 44 acum acest client a plecat : 
+Clientul ( 4,38,6) la coada 4
+ Coada 4 e ocupata 
+La timpul 44 Clientul acesta  e in asteptare 
+( 26,39,6)
+La timpul : 45 acum acest client a plecat : 
+Clientul ( 26,39,6) la coada 0
+ Coada 0 e ocupata 
